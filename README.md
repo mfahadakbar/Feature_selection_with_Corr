@@ -1,4 +1,4 @@
-# Multicollinearity:
+﻿# Multicollinearity:
 This has been an issue for some Machine Learning models, although few algorithms are not affected by multicollinearity, but at the least , reducing redundant features will make the model less expensive in terms of computational power.
 
 This function looks to reduce feature space based on correlation between features and at the same time , looking at the correlation between features and target variable
