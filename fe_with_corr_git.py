@@ -9,9 +9,11 @@ Original file is located at
 
 # made by Fahad Akbar , you can contact me at fahadakbarr@gmail.com
 # only suitable for supervised ML problems (regression and 2 calss classification)
+import numpy as np
+import pandas as pd
+
 def c_f(input_data,threshold,target_variable):
-  import pandas as pd
-  import numpy as np
+  
   global data1
   data1 = input_data.copy()
   # make an correlation db with abs correlation db
