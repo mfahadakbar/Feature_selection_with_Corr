@@ -14,6 +14,8 @@ import pandas as pd
 
 def c_f(input_data,threshold,target_variable):
   
+  import numpy as np
+  import pandas as pd
   global data1
   data1 = input_data.copy()
   # make an correlation db with abs correlation db
