@@ -21,6 +21,6 @@ Fahad
 
 Function takes three arguments
 
-	1) Data : Panda's Data Frame is required
-	2) Threshold: The minimum level of coorelation that you want to see between variables , between 0 - 1 , absolute values
-	3) Target : specify the target column (y)
+ 1) Data : Panda's Data Frame is required
+ 2) Threshold: The minimum level of coorelation that you want to see between variables , between 0 - 1 , absolute values
+ 3) Target : specify the target column (y)
