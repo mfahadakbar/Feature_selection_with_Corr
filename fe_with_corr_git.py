@@ -103,3 +103,5 @@ def c_f(input_data,threshold,target_variable):
 
   #Final Step, drop the columns from data
   data1.drop(to_drop,axis=1,inplace=True)
+   
+  return(data1)
